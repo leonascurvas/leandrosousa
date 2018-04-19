@@ -2,3 +2,5 @@ comando 1
 comando 2
 
 metodo
+
+metodo 2
